@@ -163,9 +163,6 @@ function fragen2(){
 
 //Schneider.J :-P
 
-
-
-
 function fragen5(){
     var getSelectedValue = document.querySelector( 'input[name="question5"]:checked'); 
 
